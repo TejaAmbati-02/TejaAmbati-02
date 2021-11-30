@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TejaAmbati-02
-- 👀 I’m interested in Data Science, Big Data, MERN Stack & DevOps
+- 👀 I’m interested in Data Science, MERN Stack, Flutter & DevOps
 - 🌱 I’m currently learning Big Data
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 TejaAmbati-02/TejaAmbati-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
