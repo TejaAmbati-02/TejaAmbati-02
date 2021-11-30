@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TejaAmbati-02
+- 👋 Hi, I’m @Teja-sai-kumar-Ambati
 - 👀 I’m interested in Data Science, MERN Stack, Flutter & DevOps
 - 🌱 I’m currently learning Big Data
 
