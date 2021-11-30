@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TejaAmbati-02
-- 👀 I’m interested in AI & Big Data
+- 👀 I’m interested in Data Science, Big Data, MERN Stack & DevOps
 - 🌱 I’m currently learning Big Data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
